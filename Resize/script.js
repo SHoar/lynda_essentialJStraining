@@ -21,3 +21,6 @@ window.onresize = function () {
     adjustStyle();
 };
 
+window.onload = function () {
+    adjustStyle();
+};
